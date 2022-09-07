@@ -1,20 +1,20 @@
-baseURL = "https://bubblenomad.com/"
+baseURL = "https://linktree-alternative.netlify.app/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Bubble Nomad | Links"
+title = "Example Name | Links"
 copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  name = "Bubble Nomad"
-  headline = "A collection of travels and 'slice of life' moments in various places mostly in Southeast Asia"
-  image = "img/bubblenomad.jpg"  # path relative to static directory
+  name = "Example Name"
+  headline = "This is my cool headline"
+  image = "img/profile.jpg"  # path relative to static directory
 
   links = [
-    # { email = { href = "mailto:nomadicbubble@gmail.com", text = "Email" } },
+    { email = { href = "mailto:example-email-here@gmail.com", text = "Email" } },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
@@ -28,7 +28,7 @@ disableKinds = ["taxonomy", "term"]
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    { instagram = { href = "https://instagram.com/bubblenomad", text = "Instagram" } },
+    { instagram = { href = "https://instagram.com/putyourusernamehereinsta", text = "Instagram" } },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://lastfm.com/user/username" },
@@ -49,7 +49,7 @@ disableKinds = ["taxonomy", "term"]
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
-    { youtube = { href = "https://www.youtube.com/c/BubbleNomad", text = "YouTube" } },
+    { youtube = { href = "https://www.youtube.com/c/OnlineBusinessDude", text = "YouTube" } },
   ]
 
 [module]
