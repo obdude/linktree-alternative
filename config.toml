@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "Example Name | Links"
-copyright = "timikels.com"
+copyright = ""
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
